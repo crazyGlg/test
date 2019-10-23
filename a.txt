@@ -1,1 +1,1 @@
-GC有多层含义，一是计算机术语，指Garbage Collection；二是网络用语，支持的意思；三是网络域中的GC，就是“全局目录”Global Catalog；四是科研用语，即Gas Chromatography（气相色谱法）
+GC有多层含义，一是计算机术语，指Garbage Collection；二是网络用语，支持的意思；三是网络域中的GC，就是“全局目录”Global Catalog；四是科研用语，即Gas Chromatography（气相色谱法）added by branch
